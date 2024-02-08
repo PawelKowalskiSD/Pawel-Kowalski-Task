@@ -52,6 +52,4 @@ class SolutionFizzBuzzTest {
         assertEquals("Jazz", result.get(6));
         assertEquals("FizzBuzzJazz", result.get(104));
     }
-
-
 }
